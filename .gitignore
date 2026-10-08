@@ -1,0 +1,6 @@
+# Publish only these lesson files. All other local files stay untracked.
+*
+!.gitignore
+!README.md
+!requirements.txt
+!momentum_mean_reversion.ipynb
